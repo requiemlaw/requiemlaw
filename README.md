@@ -23,6 +23,8 @@ Requiem Finance Base is a market terminal developed for efficient tracking of pr
 
 https://github.com/requiemlaw/Requiem-Finance-Base
 <br>
+https://github.com/requiemlaw/RequiemHiddenAttractorVisual (Must Visit)
+<br>
 https://github.com/requiemlaw/RequiemFonTahmini (Also Visit)
 
 <p align="left">
