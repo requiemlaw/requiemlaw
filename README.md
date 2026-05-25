@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/API-Binance_%26_Yahoo-FFD700?style=flat-square&logo=data-can&logoColor=black">
   <img src="https://img.shields.io/badge/PineScript-2962FF?style=flat-square&logo=tradingview&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
 </p>
 
 ### Featured Project: Requiem Finance Base
