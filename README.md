@@ -17,12 +17,14 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
 </p>
 
-### Featured Project: Requiem Finance Base
+### Featured Project: Requiem Finance Base & Requiem-HBYS
 Requiem Finance Base is a market terminal developed for efficient tracking of primary financial assets. The project focuses on providing a centralized, low-latency dashboard for monitoring specific equity, stocks, cryptocurrency, and commodity markets.
 
 
 
-https://github.com/requiemlaw/Requiem-Finance-Base
+https://github.com/requiemlaw/Requiem-Finance-Base (🌟)
+<br>
+https://github.com/requiemlaw/Requiem-HBYS (🌟)
 <br>
 https://github.com/requiemlaw/Requiem-Markowitz-Model (Must Visit)
 <br>
